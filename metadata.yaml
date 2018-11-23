@@ -1,0 +1,23 @@
+_repo: London-Cries-Public-Edifices_58312
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Leighton, John
+    alias: Limner, Luke
+    birthdate: 1822
+    deathdate: 1912
+    gutenberg_agent_id: '9186'
+    url: http://www.gutenberg.org/2009/agents/9186
+description: ''
+gutenberg_issued: '2018-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58312'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: London Cries & Public Edifices
+url: http://www.gutenberg.org/ebooks/58312
